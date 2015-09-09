@@ -63,7 +63,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"url": "http://repo.saidias.com/XML/SAIDiasIPTV.xml", "fanart": "http://opti786.5gbfree.com/thumbs/fanart.jpg", "genre": "Tv Live", "date": "01.09.2015", "credits": "SAIDiasIPTV", "thumbnail": "http://repo.saidias.com/XML/icon.png"}]
+SOURCES = [{"url": "http://repo.saidias.com/XML/SAIDiasIPTV.xml", "fanart": "http://saidias.com/thumbs/fanart.jpg", "genre": "Tv Live", "date": "01.09.2015", "credits": "SAIDiasIPTV", "thumbnail": "http://repo.saidias.com/XML/icon.png"}]
 
 # http://i.imgur.com/aOyKUFn.jpg
 # http://i.imgur.com/CUE62qD.png
